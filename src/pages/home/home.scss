@@ -1,0 +1,31 @@
+page-home {
+
+}
+
+.fundo {
+	background-image: url('../../assets/imgs/bg1.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
+}
+
+.texto {
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.row {
+	background-color: white;
+}
+
+.col {
+	padding: 20px;
+}
+
+h3 {
+	margin-bottom: 30px;
+}
+
+img {
+	width: 100px;
+	height: auto;
+}
